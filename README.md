@@ -6,7 +6,7 @@
 ```
 ## 8월 1주
 ### 과제
-<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [p10026 적녹색약](https://www.acmicpc.net/problem/10026)
+<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [p10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)
 
 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** 문제 번호 문제 이름 링크를 달아주세요
 
@@ -21,6 +21,6 @@
 
 ## 8월 2주
 
-<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) ~~ [p1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
+<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [p1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
 
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON**
