@@ -21,6 +21,6 @@
 
 ## 8월 2주
 
-<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) ~~ [p1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
+<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [p1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
 
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON**
