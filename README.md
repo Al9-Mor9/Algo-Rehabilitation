@@ -17,6 +17,8 @@
 3) [1445 일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)
 4) [1647 도시 분할 계획](https://www.acmicpc.net/problem/1647)
 
+### 못 풀었거나, 까다로웠다면, 복습해보자.
+- String 다루기, 조건부 Implemetation, Dijkstra, Union Find/MST
 
 ## 8월 2주
 
