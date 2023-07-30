@@ -28,7 +28,7 @@
 
 ### 시험  (출제자 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG**)
 > 이런 기준으로 출제했어요
-> 알고리즘 분류를 다양하게 찍먹.
+> - 알고리즘 분류를 다양하게 찍먹.
 1)
 2) 
 3) 
