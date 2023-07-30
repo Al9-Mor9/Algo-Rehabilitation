@@ -6,21 +6,23 @@
 ```
 ## 8월 1주
 ### 과제
-<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [p10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)
+<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)
 
-<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** 문제 번호 문제 이름 링크를 달아주세요
+<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G4) [14500 테트로미노](https://www.acmicpc.net/problem/14500)
 
-### 시험  (출제자 <img src = "https://github.com/suchshin.png" width="25" height="25"> SHIN SEOKCHUL)
+### 시험  (출제자 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO**)
 > 이런 기준으로 출제했어요
-1) 문제 번호 문제 이름 링크를 달아주세요(예전이랑 똑같음)
-2) ㅁㅁㄴㅇ
-3) ㅁㄴㅇ
-4) ㅁㄴㅇ
-5) ㅁㄴㅇ
+1) [1357 뒤집힌 덧셈](http://www.acmicpc.net/problme/1357)
+2) [1986 체스](https://www.acmicpc.net/problem/1986)
+3) [1445 일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)
+4) [1647 도시 분할 계획](https://www.acmicpc.net/problem/1647)
 
 
 ## 8월 2주
 
-<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [p1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
+<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
 
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON**
+
+
+<img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOKCHUL**
