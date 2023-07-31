@@ -6,7 +6,7 @@
 ```
 ## 8월 1주
 ### 과제
-<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)
+<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/10026/10026_H.py)
 
 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G4) [14500 테트로미노](https://www.acmicpc.net/problem/14500)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14500/14500_L.py)
 
@@ -17,12 +17,14 @@
 3) [1445 일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)
 4) [1647 도시 분할 계획](https://www.acmicpc.net/problem/1647)
 
+### 못 풀었거나, 까다로웠다면, 복습해보자.
+- String 다루기, 조건부 Implemetation, Dijkstra, Union Find/MST
 
 ## 8월 2주
 
 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
 
-<img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON**
+<img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON** (G4) [1753 최단경로](https://www.acmicpc.net/problem/1753)
 
 <img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOKCHUL**
 
