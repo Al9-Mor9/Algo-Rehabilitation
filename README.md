@@ -24,7 +24,7 @@
 
 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
 
-<img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON**
+<img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON** (G4) [1753 최단경로](https://www.acmicpc.net/problem/1753)
 
 <img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOKCHUL**
 
