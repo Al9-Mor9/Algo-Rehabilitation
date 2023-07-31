@@ -8,7 +8,7 @@
 ### 과제
 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/10026/10026_H.py)
 
-<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G4) [14500 테트로미노](https://www.acmicpc.net/problem/14500)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14500/14500_L.py)
+<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G4) [14500 테트로미노](https://www.acmicpc.net/problem/14500)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14500/14500_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/14500/14500_H.py)
 
 ### 시험  (출제자 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO**)
 > 이런 기준으로 출제했어요
