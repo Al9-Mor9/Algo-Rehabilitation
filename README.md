@@ -12,7 +12,7 @@
 
 ### 시험  (출제자 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO**)
 > 이런 기준으로 출제했어요
-1) [1357 뒤집힌 덧셈](http://www.acmicpc.net/problme/1357)
+1) [1357 뒤집힌 덧셈](http://www.acmicpc.net/problem/1357)
 2) [1986 체스](https://www.acmicpc.net/problem/1986)
 3) [1445 일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)
 4) [1647 도시 분할 계획](https://www.acmicpc.net/problem/1647)
