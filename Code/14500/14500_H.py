@@ -1,28 +1,22 @@
 import sys
 sys.stdin = open('input.txt', 'r')
 
-
-## not done
+## 머리가 나쁘면 컴퓨터가 고생한다
+## albba?
 
 dr = [[-1, 0], [1, 0], [0, -1], [0, 1]]
-# q = []
 
 
 def dfs(x, y, c, t):
     if c == 4:
         global ans
-        # w = ans
         ans = max(t, ans)
-        # if w != ans:
-        #     print(q, t)
         return
     for dx, dy in dr:
         nx, ny = x + dx, y + dy
-        if 0 <= nx < n and 0 <= ny < n and not visited[nx][ny]:
+        if 0 <= nx < n and 0 <= ny < m and not visited[nx][ny]:
             visited[nx][ny] = 1
-            # q.append([nx, ny])
             dfs(nx, ny, c+1, t+arr[nx][ny])
-            # q.pop()
             visited[nx][ny] = 0
 
 
@@ -32,10 +26,23 @@ visited = [[0]*m for _ in range(n)]
 ans = 0
 for i in range(n):
     for j in range(m):
-        cnt, temp = 0, 0
-        # visited[i][j] = 1
-        print(i, j)
-        # q.append([i, j])
-        dfs(i, j, cnt, temp)
-        # q.pop()
+        cnt = 0
+        dfs(i, j, cnt, 0)
+
+# ㅏ
+for i in range(n-2):
+    for j in range(m-1):
+        ans = max(ans, arr[i][j] + arr[i+1][j] + arr[i+2][j] + arr[i+1][j+1])
+# ㅓ
+for i in range(n-2):
+    for j in range(1, m):
+        ans = max(ans, arr[i][j] + arr[i+1][j] + arr[i+2][j] + arr[i+1][j-1])
+# ㅗ
+for i in range(1, n):
+    for j in range(m-2):
+        ans = max(ans, arr[i][j] + arr[i][j+1] + arr[i][j+2] + arr[i-1][j+1])
+#ㅜ
+for i in range(n-1):
+    for j in range(m-2):
+        ans = max(ans, arr[i][j] + arr[i][j+1] + arr[i][j+2] + arr[i+1][j+1])
 print(ans)
