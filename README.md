@@ -22,7 +22,7 @@
 
 ## 8월 2주
 
-<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [1417 국회의원 선거](https://www.acmicpc.net/problem/1417)
+<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [1417 국회의원 선거](https://www.acmicpc.net/problem/1417)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1417/1417_K.py)
 
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON** (G4) [1753 최단경로](https://www.acmicpc.net/problem/1753)
 
