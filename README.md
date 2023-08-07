@@ -22,7 +22,7 @@
 
 ## 8월 2주
 
-<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [1417 국회의원 선거](https://www.acmicpc.net/problem/1417)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1417/1417_K.py)
+<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (S5) [1417 국회의원 선거](https://www.acmicpc.net/problem/1417)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1417/1417_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1417/1417_H.py)
 
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON** (G4) [1753 최단경로](https://www.acmicpc.net/problem/1753)
 
@@ -31,8 +31,8 @@
 ### 시험  (출제자 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG**)
 > 이런 기준으로 출제했어요
 > - 알고리즘 분류를 다양하게 찍먹.
-1) [17608 막대기](http://www.acmicpc.net/problem/17608)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/17608/17608_K.py)
-2) [1931 회의실 배정](http://www.acmicpc.net/problem/1931)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1931/1931_K.py)
-3) [18243 Small World Network](http://www.acmicpc.net/problem/18243)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/18243/18243_K.py)
-4) [11812 K진 트리](http://www.acmicpc.net/problem/11812)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/11812/11812_K.py)
+1) [17608 막대기](http://www.acmicpc.net/problem/17608)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/17608/17608_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/17608/17608_H.py)
+2) [1931 회의실 배정](http://www.acmicpc.net/problem/1931)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1931/1931_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1931/1931_H.py)
+3) [18243 Small World Network](http://www.acmicpc.net/problem/18243)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/18243/18243_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/18243/18243_H.py)
+4) [11812 K진 트리](http://www.acmicpc.net/problem/11812)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/11812/11812_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/11812/11812_H.py)
 
