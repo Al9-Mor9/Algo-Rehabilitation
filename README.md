@@ -26,7 +26,7 @@
 
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHEON** (G4) [1753 최단경로](https://www.acmicpc.net/problem/1753)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1753/1753_H.py)
 
-<img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOKCHUL**
+<img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOKCHUL** (S1) [2583 영역 구하기](https://www.acmicpc.net/problem/2583)
 
 ### 시험  (출제자 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG**)
 > 이런 기준으로 출제했어요
