@@ -1,42 +1,53 @@
 import sys
-
 sys.stdin = open('../../../tmp/input.txt', 'r')
 
-
 #####
 #####
 
-def find(node):
-    cnt = 0
-    lst = [node]
-    while node != 1:
+import sys
+
+input = sys.stdin.readline
+
+# depth층에서 가장 오른쪽(해당 층에서 최댓값)에 있는 노드 == S(n)
+# a*(r^n-1)/(r-1) where a == 1 & r == k & n == depth
+# -> (k**depth-1)//(k-1)
+# def maxvalue(depth):
+#     if depth <= 0:
+#         return 0
+#
+#     return (k ** depth - 1) // (k - 1)
+
+# 해당 노드의 depth 찾기
+def depth_find(node):
+    cnt = 1
+    while node > 1:
         cnt += 1
-        lst.append(((node - 2) // k) + 1)
         node = ((node - 2) // k) + 1
-    return lst
+    return cnt
+def find(a, b, ans):
+    a_depth = depth_find(a)
+    b_depth = depth_find(b)
+
+    if a_depth < b_depth:
+        a, b = b, a
+        a_depth, b_depth = b_depth, a_depth
+
+    while a_depth != b_depth:
+        a = ((a - 2) // k) + 1
+        a_depth -= 1
+        ans += 1
+
+    while a != b:
+        a = ((a - 2) // k) + 1
+        b = ((b - 2) // k) + 1
+        ans += 2
+    return ans
 
 
 n, k, q = map(int, input().split())
 for _ in range(q):
     x, y = map(int, input().split())
     if k == 1:
-        print(abs(x-y))
+        print(abs(x - y))
         continue
-    lst1 = find(x)
-    lst2 = find(y)
-    # print(lst1, lst2)
-    ans = 0
-    p1, p2 = 0, 0
-    l1, l2 = len(lst1), len(lst2)
-    if l1 > l2:
-        p1 = l1 - l2
-        ans += p1
-    elif l1 < l2:
-        p2 = l2 - l1
-        ans += p2
-    # print("p1, p2 : ",p1, p2)
-    while lst1[p1] != lst2[p2]:
-        ans += 2
-        p1 += 1
-        p2 += 1
-    print(ans)
+    print(find(x, y, 0))
