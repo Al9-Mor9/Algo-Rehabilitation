@@ -12,6 +12,7 @@
 
 ### 시험  (출제자 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO**)
 > 이런 기준으로 출제했어요
+> - 적절한 난이도 분배와 스탠다드한 문제들
 1) [1357 뒤집힌 덧셈](http://www.acmicpc.net/problem/1357)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1357/1357_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1357/1357_P.cpp)
 2) [1986 체스](https://www.acmicpc.net/problem/1986)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1986/1986_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1986/1986_P.cpp)
 3) [1445 일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1445/1445_K.py)
