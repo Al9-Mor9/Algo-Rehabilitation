@@ -36,8 +36,8 @@
 > - 알고리즘 분류를 다양하게 찍먹.
 1) [17608 막대기](http://www.acmicpc.net/problem/17608)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/17608/17608_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/17608/17608_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17608/17608_P.cpp)
 2) [1931 회의실 배정](http://www.acmicpc.net/problem/1931)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1931/1931_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1931/1931_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1931/1931_P.cpp)
-3) [18243 Small World Network](http://www.acmicpc.net/problem/18243)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/18243/18243_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/18243/18243_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/18243/18243_P.cpp)
-4) [11812 K진 트리](http://www.acmicpc.net/problem/11812)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/11812/11812_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/11812/11812_H.py)
+3) [18243 Small World Network](http://www.acmicpc.net/problem/18243)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/18243/18243_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/18243/18243_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/18243/18243_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/18243/18243_L.py)
+4) [11812 K진 트리](http://www.acmicpc.net/problem/11812)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/11812/11812_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/11812/11812_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/11812/11812_L.py)
 
 ---
 
@@ -46,8 +46,8 @@
 ### [ 시험 ] (출제자 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM**)
 > 이런 기준으로 출제했어요
 > - 다익스트라, 백트래킹 복습 및 빈출 알고리즘 위주로 (문자열, 백트래킹, 투포인터, 다익스트라)
-1) [23304 아카라카](http://www.acmicpc.net/problem/23304)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/23304/23304_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/23304/22304_H.py)
-2) [9663 N-Queen](http://www.acmicpc.net/problem/9663)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9663/9663_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9663/9663_H.py)
-3) [3649 로봇 프로젝트](http://www.acmicpc.net/problem/3649)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/3649/3649_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/3649/3649_H.py)
-4) [9370 미확인 도착지](http://www.acmicpc.net/problem/9370)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9370/9370_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9370/9370_K.py)
+1) [23304 아카라카](http://www.acmicpc.net/problem/23304)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/23304/23304_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/23304/22304_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/23304/23304_L.py)
+2) [9663 N-Queen](http://www.acmicpc.net/problem/9663)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9663/9663_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9663/9663_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/9663/9663_L.py)
+3) [3649 로봇 프로젝트](http://www.acmicpc.net/problem/3649)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/3649/3649_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/3649/3649_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/3649/3649_L.py)
+4) [9370 미확인 도착지](http://www.acmicpc.net/problem/9370)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9370/9370_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9370/9370_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/9370/9370_L.py)
 
