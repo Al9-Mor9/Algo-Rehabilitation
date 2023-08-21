@@ -5,7 +5,8 @@
 목요일 과제는 그 전주 목요일 자정까지 출제합니다.
 ```
 <details>
-<summary> 8월 </summary>
+<summary> <h2>2023-8</h2> </summary>
+  
 ## 📅 8월 1주
 ### [ 과제 ]
 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/10026/10026_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/10026/10026_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/10026/10026_P.cpp)
