@@ -51,3 +51,10 @@
 3) [3649 로봇 프로젝트](http://www.acmicpc.net/problem/3649)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/3649/3649_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/3649/3649_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/3649/3649_L.py)
 4) [9370 미확인 도착지](http://www.acmicpc.net/problem/9370)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9370/9370_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9370/9370_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/9370/9370_L.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/9370/9370_P.cpp)
 
+---
+
+## 📅 8월 4주
+### [ 과제 ] 
+### [ 시험 ] (출제자 )
+> 이런 기준으로 출제했어요
+
