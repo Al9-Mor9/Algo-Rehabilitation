@@ -58,7 +58,7 @@
 
 ## 📅 8월 4주
 ### [ 과제 ] 
-<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G5) [16928 뱀과 사다리 게임] (https://www.acmicpc.net/problem/16928)
+<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G5) [16928 뱀과 사다리 게임] (https://www.acmicpc.net/problem/16928)   
 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G4) [6497 전력난] (https://www.acmicpc.net/problem/6497)
 
 ### [ 시험 ] (출제자 )
