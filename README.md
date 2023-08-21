@@ -4,6 +4,8 @@
 매주 목요일까지는 두 문제를 풀어오고, 일요일(09:00~11:00)에는 모의 코테가 있습니다.
 목요일 과제는 그 전주 목요일 자정까지 출제합니다.
 ```
+<details>
+<summary> 8월 </summary>
 ## 📅 8월 1주
 ### [ 과제 ]
 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/10026/10026_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/10026/10026_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/10026/10026_P.cpp)
@@ -58,3 +60,10 @@
 ### [ 시험 ] (출제자 )
 > 이런 기준으로 출제했어요
 
+---
+
+## 📅 8월 5주
+### [ 과제 ] 
+### [ 시험 ] (출제자 )
+> 이런 기준으로 출제했어요
+</details>
