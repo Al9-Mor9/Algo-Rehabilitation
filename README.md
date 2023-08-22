@@ -59,8 +59,11 @@
 ## 📅 8월 4주
 ### [ 과제 ] 
 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G5) [16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/16928/16928_H.py)
-<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G4) [6497 전력난](https://www.acmicpc.net/problem/6497)    
+
+<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G4) [6497 전력난](https://www.acmicpc.net/problem/6497)
+
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **Hwang Jaechun** (G4) [2110 공유기 설치](https://www.acmicpc.net/problem/2110)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2110/2110_H.py)
+
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **Hwang Jaechun** (G2) [12015 가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/12015/12015_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/12015/12015_H.py)
 
 ### [ 시험 ] (출제자 )
