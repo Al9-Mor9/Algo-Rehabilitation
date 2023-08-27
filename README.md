@@ -72,10 +72,10 @@
 ### [ 과제 ] 
 ### [ 시험 ] (출제자 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN**) 
 > 이런 기준으로 출제했어요
-1) [1026 보물](https://www.acmicpc.net/problem/1026)
-2) [2251 물통](https://www.acmicpc.net/problem/2251)
-3) [15683 감시](https://www.acmicpc.net/problem/15683)
-4) [1005 ACM Craft](https://www.acmicpc.net/problem/1005)
+1) [1026 보물](http://www.acmicpc.net/problem/1026)
+2) [2251 물통](http://www.acmicpc.net/problem/2251)
+3) [15683 감시](http://www.acmicpc.net/problem/15683)
+4) [1005 ACM Craft](http://www.acmicpc.net/problem/1005)
 
 
 
