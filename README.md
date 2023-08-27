@@ -65,10 +65,24 @@
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **Hwang Jaechun** (G4) [2110 공유기 설치](https://www.acmicpc.net/problem/2110)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2110/2110_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2110/2110_P.cpp)
 
 <img src = "https://github.com/wocjs.png" width="25" height="25"> **Hwang Jaechun** (G2) [12015 가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/12015/12015_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/12015/12015_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/12015/12015_L.py)
+
 ---
 
 ## 📅 8월 5주
 ### [ 과제 ] 
-### [ 시험 ] (출제자 <img src = "https://github.com/sulogc.png" width="25" height="25"> **HWANG JAECHUN**) 
+### [ 시험 ] (출제자 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN**) 
 > 이런 기준으로 출제했어요
+1) [1026 보물](https://www.acmicpc.net/problem/1026)
+2) [2251 물통](https://www.acmicpc.net/problem/2251)
+3) [15683 감시](https://www.acmicpc.net/problem/15683)
+4) [1005 ACM Craft](https://www.acmicpc.net/problem/1005)
+
+
+
+
+
+
+
+
+
 </details>
