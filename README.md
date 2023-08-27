@@ -74,7 +74,7 @@
 > 이런 기준으로 출제했어요
 1) [1026 보물](http://www.acmicpc.net/problem/1026)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1026/1026_P.cpp)
 2) [2251 물통](http://www.acmicpc.net/problem/2251)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2251/2251_P.cpp)
-3) [15683 감시](http://www.acmicpc.net/problem/15683)
+3) [15683 감시](http://www.acmicpc.net/problem/15683)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/15683/15683_P.cpp)
 4) [1005 ACM Craft](http://www.acmicpc.net/problem/1005)
 
 
