@@ -6,7 +6,7 @@
 ```
 <details>
 <summary> <h2>2023-8</h2> </summary>
-  
+
 ## 📅 8월 1주
 ### [ 과제 ]
 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/10026/10026_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/10026/10026_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/10026/10026_P.cpp)
@@ -70,6 +70,9 @@
 
 ## 📅 8월 5주
 ### [ 과제 ] 
+<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [14567 선수과목](https://www.acmicpc.net/problem/14567)
+
+
 ### [ 시험 ] (출제자 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN**) 
 > 이런 기준으로 출제했어요
 1) [1026 보물](http://www.acmicpc.net/problem/1026)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1026/1026_P.cpp)
