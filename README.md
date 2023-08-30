@@ -1,9 +1,12 @@
-# Algo-Rehabilitation 👩‍🦽 🦽💀 👨‍🦼 🦽🧍‍♂️🦽🧍‍♂️
+# Algo-Rehabilitation 👩‍🦽 👨‍🦽 👨‍🦼 🦽🧍‍♂️🦽🧍‍♂️
 알고리즘 재활 훈련을 시작해봐요.
 ```
 매주 목요일까지는 두 문제를 풀어오고, 일요일(09:00~11:00)에는 모의 코테가 있습니다.
 목요일 과제는 그 전주 목요일 자정까지 출제합니다.
 ```
+<details>
+<summary> <h2>2023-8</h2> </summary>
+
 ## 📅 8월 1주
 ### [ 과제 ]
 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [10026 적녹색약](https://www.acmicpc.net/problem/10026)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10026/10026_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/10026/10026_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/10026/10026_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/10026/10026_P.cpp)
@@ -36,8 +39,8 @@
 > - 알고리즘 분류를 다양하게 찍먹.
 1) [17608 막대기](http://www.acmicpc.net/problem/17608)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/17608/17608_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/17608/17608_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17608/17608_P.cpp)
 2) [1931 회의실 배정](http://www.acmicpc.net/problem/1931)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1931/1931_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1931/1931_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1931/1931_P.cpp)
-3) [18243 Small World Network](http://www.acmicpc.net/problem/18243)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/18243/18243_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/18243/18243_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/18243/18243_P.cpp)
-4) [11812 K진 트리](http://www.acmicpc.net/problem/11812)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/11812/11812_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/11812/11812_H.py)
+3) [18243 Small World Network](http://www.acmicpc.net/problem/18243)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/18243/18243_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/18243/18243_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/18243/18243_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/18243/18243_L.py)
+4) [11812 K진 트리](http://www.acmicpc.net/problem/11812)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/11812/11812_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/11812/11812_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/11812/11812_L.py)
 
 ---
 
@@ -46,8 +49,43 @@
 ### [ 시험 ] (출제자 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM**)
 > 이런 기준으로 출제했어요
 > - 다익스트라, 백트래킹 복습 및 빈출 알고리즘 위주로 (문자열, 백트래킹, 투포인터, 다익스트라)
-1) [23304 아카라카](http://www.acmicpc.net/problem/23304)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/23304/23304_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/23304/22304_H.py)
-2) [9663 N-Queen](http://www.acmicpc.net/problem/9663)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9663/9663_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9663/9663_H.py)
-3) [3649 로봇 프로젝트](http://www.acmicpc.net/problem/3649)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/3649/3649_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/3649/3649_H.py)
-4) [9370 미확인 도착지](http://www.acmicpc.net/problem/9370)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9370/9370_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9370/9370_K.py)
+1) [23304 아카라카](http://www.acmicpc.net/problem/23304)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/23304/23304_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/23304/22304_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/23304/23304_L.py)
+2) [9663 N-Queen](http://www.acmicpc.net/problem/9663)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9663/9663_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9663/9663_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/9663/9663_L.py)
+3) [3649 로봇 프로젝트](http://www.acmicpc.net/problem/3649)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/3649/3649_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/3649/3649_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/3649/3649_L.py)
+4) [9370 미확인 도착지](http://www.acmicpc.net/problem/9370)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9370/9370_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9370/9370_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/9370/9370_L.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/9370/9370_P.cpp)
 
+---
+
+## 📅 8월 4주
+### [ 과제 ] 
+<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G5) [16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/16928/16928_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/16928/16928_L.py)
+
+<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G4) [6497 전력난](https://www.acmicpc.net/problem/6497)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/6497/6497_L.py)
+
+<img src = "https://github.com/wocjs.png" width="25" height="25"> **Hwang Jaechun** (G4) [2110 공유기 설치](https://www.acmicpc.net/problem/2110)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2110/2110_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2110/2110_P.cpp)
+
+<img src = "https://github.com/wocjs.png" width="25" height="25"> **Hwang Jaechun** (G2) [12015 가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/12015/12015_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/12015/12015_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/12015/12015_L.py)
+
+---
+
+## 📅 8월 5주
+### [ 과제 ] 
+<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [14567 선수과목](https://www.acmicpc.net/problem/14567)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/14567/14567_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/14567/14567_K.py)
+
+
+### [ 시험 ] (출제자 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN**) 
+> 이런 기준으로 출제했어요
+1) [1026 보물](http://www.acmicpc.net/problem/1026)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1026/1026_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1026/1026_K.py)
+2) [2251 물통](http://www.acmicpc.net/problem/2251)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2251/2251_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2251/2251_K.py)
+3) [15683 감시](http://www.acmicpc.net/problem/15683)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/15683/15683_P.cpp)
+4) [1005 ACM Craft](http://www.acmicpc.net/problem/1005)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1005/1005_P.cpp)
+
+
+
+
+
+
+
+
+
+</details>
