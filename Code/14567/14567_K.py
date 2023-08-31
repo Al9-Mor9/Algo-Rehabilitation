@@ -27,8 +27,18 @@ print(*inDegree[1:])
 #         now = q.popleft()
 #         for i in graph[now]:
 #             inDegree[i] -= 1
+
+#             ----------------------------------
 #             q.append(i)
 #             result[i-1] = result[now-1] + 1
+#             ----------------------------------
+
+#             ----------------------------------
+#             if not inDegree[i]:
+#                 q.append(i)
+#                 result[i-1] = result[now-1] + 1
+#             ----------------------------------
+
 
 # V, E = map(int, input().split())
 # graph = [[] for _ in range(V+1)]
