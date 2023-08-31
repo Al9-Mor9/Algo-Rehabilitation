@@ -78,7 +78,7 @@
 1) [1026 보물](http://www.acmicpc.net/problem/1026)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1026/1026_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1026/1026_K.py)
 2) [2251 물통](http://www.acmicpc.net/problem/2251)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2251/2251_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2251/2251_K.py)
 3) [15683 감시](http://www.acmicpc.net/problem/15683)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/15683/15683_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/15683/15683_H.py)
-4) [1005 ACM Craft](http://www.acmicpc.net/problem/1005)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1005/1005_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1005/1005_L.py)
+4) [1005 ACM Craft](http://www.acmicpc.net/problem/1005)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1005/1005_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1005/1005_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1005/1005_K.py)
 
 
 
