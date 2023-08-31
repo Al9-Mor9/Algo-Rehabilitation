@@ -11,4 +11,5 @@ ans = [1] * (n + 1)
 for i in range(n):
     for connection in arr[i]:
         ans[connection] = max(ans[connection], ans[i]+1)
+
 print(*ans[1:])
