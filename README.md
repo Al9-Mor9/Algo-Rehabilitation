@@ -83,6 +83,7 @@
 ## 📅 9월 1주
 ### [ 과제 ] 
 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G1) [1450 냅색문제](https://www.acmicpc.net/problem/1450)
+<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (G1) [10868 최솟값](https://www.acmicpc.net/problem/10868)
 
 
 ### [ 시험 ] (출제자 <img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**) 
