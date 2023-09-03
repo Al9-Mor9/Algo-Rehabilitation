@@ -80,7 +80,16 @@
 4) [1005 ACM Craft](http://www.acmicpc.net/problem/1005)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1005/1005_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1005/1005_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1005/1005_K.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/1005/1005_S.py)
 
 
+## 📅 9월 1주
+### [ 과제 ] 
 
+
+### [ 시험 ] (출제자 <img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**) 
+> 이런 기준으로 출제했어요
+1) [15732 도토리 숨기기](http://www.acmicpc.net/problem/15732)
+2) [9466 텀 프로젝트](http://www.acmicpc.net/problem/9466)
+3) [1027 고층 건물](http://www.acmicpc.net/problem/1027)
+4) [1315 RPG](http://www.acmicpc.net/problem/1315)
 
 
 
