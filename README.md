@@ -82,7 +82,7 @@
 
 ## 📅 9월 1주
 ### [ 과제 ] 
-<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G1) [1450 냅색문제](https://www.acmicpc.net/problem/1450)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1450/1450_K.py)
+<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G1) [1450 냅색문제](https://www.acmicpc.net/problem/1450)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1450/1450_K.py)   
 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (G1) [10868 최솟값](https://www.acmicpc.net/problem/10868)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/10868/10868_P.cpp)
 
 
