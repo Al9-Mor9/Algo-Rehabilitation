@@ -96,7 +96,7 @@
 
 ## 📅 9월 2주
 ### [ 과제 ] 
-<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987)
+<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/16987/16987_P.cpp)
 
 ### [ 시험 ] (출제자 <img src = "https://github.com/Frog-SLayer.png" width="25" height="25"> **PARK YEONGSEO**) 
 > 기초 자료구조를 위주로
