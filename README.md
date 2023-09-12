@@ -100,10 +100,10 @@
 
 ### [ 시험 ] (출제자 <img src = "https://github.com/Frog-SLayer.png" width="25" height="25"> **PARK YEONGSEO**) 
 > 기초 자료구조를 위주로
-1) [24511 queuestack](https://www.acmicpc.net/problem/24511)
-2) [2559 수열](https://www.acmicpc.net/problem/2559)
-3) [11000 강의실 배정](https://www.acmicpc.net/problem/2559)
-4) [2268 수들의 합 7](https://www.acmicpc.net/problem/2268)
+1) [24511 queuestack](https://www.acmicpc.net/problem/24511)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/24511/24511_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/24511/24511_L.py)
+2) [2559 수열](https://www.acmicpc.net/problem/2559)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2559/2559_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2559/2559_K.py)
+3) [11000 강의실 배정](https://www.acmicpc.net/problem/2559)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2559/2559_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2559/2559_K.py)
+4) [2268 수들의 합 7](https://www.acmicpc.net/problem/2268)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2268/2268_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2268/2268_K.py)
 
 
 
