@@ -92,8 +92,18 @@
 2) [9466 텀 프로젝트](http://www.acmicpc.net/problem/9466)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/9466/9466_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/9466/9466_L.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/9466/9466_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9466/9466_H.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/9466/9446_S.py)
 3) [1027 고층 건물](http://www.acmicpc.net/problem/1027)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1027/1027_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1027/1027_L.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1027/1027_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1027/1027_H.py)
 4) [1315 RPG](http://www.acmicpc.net/problem/1315)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1315/1315_L.py)
+5) 
 
+## 📅 9월 2주
+### [ 과제 ] 
+<img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM** (G5) [16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987)
 
+### [ 시험 ] (출제자 <img src = "https://github.com/Frog-SLayer.png" width="25" height="25"> **PARK YEONGSEO**) 
+> 기초 자료구조를 위주로
+1) [24511 queuestack](https://www.acmicpc.net/problem/24511)
+2) [2559 수열](https://www.acmicpc.net/problem/2559)
+3) [11000 강의실 배정](https://www.acmicpc.net/problem/2559)
+4) [2268 수들의 합 7](https://www.acmicpc.net/problem/2268)
 
 
 
