@@ -23,4 +23,5 @@ for i in word:
         elif i == '/':
             res = n2 / n1
         stack.append(res)
+
 print('%.2f' %stack.pop())

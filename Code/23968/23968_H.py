@@ -18,4 +18,5 @@ for i in range(n-1, 0, -1):
                 ans = f'{arr[j]} {arr[j+1]}'
                 print(ans)
                 exit(0)
+
 print(ans)
