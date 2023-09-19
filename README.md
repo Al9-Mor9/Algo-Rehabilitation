@@ -109,3 +109,27 @@
 
 
 
+
+## 📅 9월 3주
+### [ 과제 ] 
+
+
+
+### [ 시험 ] (출제자 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG**) 
+
+> 원리, 구현과 세그트리
+1) [23968 알고리즘 수업 - 버블 정렬 1](https://www.acmicpc.net/problem/23968)
+2) [1935 후위 표기식2](https://www.acmicpc.net/problem/1935)
+3) [18809 Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)
+4) [1517 버블 소트](https://www.acmicpc.net/problem/1517)
+
+
+
+
+
+
+
+
+
+
+
