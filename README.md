@@ -112,7 +112,7 @@
 
 ## 📅 9월 3주
 ### [ 과제 ] 
-<img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN** (G4) [1967 트리의 지름](https://www.acmicpc.net/problem/1967)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1967/1967_H.py)
+<img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN** (G4) [1967 트리의 지름](https://www.acmicpc.net/problem/1967)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1967/1967_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1967/1967_P.cpp)
 
 
 ### [ 시험 ] (출제자 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG**) 
