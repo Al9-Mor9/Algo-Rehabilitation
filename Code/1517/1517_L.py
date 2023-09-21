@@ -34,7 +34,7 @@ arr.sort(key = lambda x: x[0])
 tree = [0 for _ in range(n * 4)]
 ans = 0
 
-for idx, _ in arr:
+for  _, idx in arr:
     ans += query(1, 1, n, idx, n)
     update(1, idx, 1, n)
 
