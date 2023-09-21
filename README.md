@@ -112,8 +112,8 @@
 
 ## 📅 9월 3주
 ### [ 과제 ] 
-<img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN** (G4) [1967 트리의 지름](https://www.acmicpc.net/problem/1967)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1967/1967_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1967/1967_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1967/1967_K.java)
-<img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOKCHUL** (G3) [1520 영역 구하기](https://www.acmicpc.net/problem/1520)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1520/1520_P.cpp)
+<img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN** (G4) [1967 트리의 지름](https://www.acmicpc.net/problem/1967)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1967/1967_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1967/1967_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1967/1967_K.java)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1967/1967_L.java)
+<img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOKCHUL** (G3) [1520 영역 구하기](https://www.acmicpc.net/problem/1520)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1520/1520_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1520/1520_L.java)
 
 ### [ 시험 ] (출제자 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG**) 
 
