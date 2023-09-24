@@ -134,10 +134,10 @@
 ### [ 시험 ] (출제자 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM**) 
 
 > 출제 기준 : <IT기업 및 대기업 계열사 코테보면서 비슷했던 문제집> 중 출제
-1) [1927 최소힙](https://www.acmicpc.net/problem/1927)
-2) [4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
-3) [14658 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)
-4) [20188 등산 마니아](https://www.acmicpc.net/problem/20188)
+1) [1927 최소힙](https://www.acmicpc.net/problem/1927)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1927/1927_K.py)
+2) [4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/4485/4485_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/4485/4485_K.py)
+3) [14658 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/14658/14658_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14658/14658_L.py)
+4) [20188 등산 마니아](https://www.acmicpc.net/problem/20188)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/20188/20188_L.py)
 
 
 
