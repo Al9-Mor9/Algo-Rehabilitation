@@ -127,9 +127,7 @@
 
 ## 📅 9월 4주
 ### [ 과제 ] 
-<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** 
-
-<img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**
+추석으로 패스
 
 ### [ 시험 ] (출제자 <img src = "https://github.com/Haaarimmm.png" width="25" height="25"> **KIM HARIM**) 
 
@@ -140,6 +138,18 @@
 4) [20188 등산 마니아](https://www.acmicpc.net/problem/20188)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/20188/20188_L.py)
 
 
+## 📅 10월 1주
+### [ 과제 ] 
+<img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** 
+<img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**
+
+### [ 시험 ] (출제자 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN**) 
+
+> 출제 기준 : 
+1) [17484 진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)
+2) [2631 줄세우기](https://www.acmicpc.net/problem/2631)
+3) [2169 로봇 조종하기](https://www.acmicpc.net/problem/2169)
+4) [9527 1의 개수 세기](https://www.acmicpc.net/problem/9527)
 
 
 
