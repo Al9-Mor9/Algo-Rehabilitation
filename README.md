@@ -135,7 +135,7 @@
 1) [1927 최소힙](https://www.acmicpc.net/problem/1927)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1927/1927_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1927/1927_P.cpp)
 2) [4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/4485/4485_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/4485/4485_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/4485/4485_P.cpp)
 3) [14658 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/14658/14658_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14658/14658_L.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/14658/14658_P.cpp)
-4) [20188 등산 마니아](https://www.acmicpc.net/problem/20188)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/20188/20188_L.py)
+4) [20188 등산 마니아](https://www.acmicpc.net/problem/20188)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/20188/20188_L.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/20188/20188_P.cpp)
 
 
 ## 📅 10월 1주
