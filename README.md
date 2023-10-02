@@ -119,7 +119,7 @@
 ### [ 시험 ] (출제자 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG**) 
 
 > 출제 기준 : 원리, 구현과 세그트리
-1) [23968 알고리즘 수업 - 버블 정렬 1](https://www.acmicpc.net/problem/23968)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/23968/23968_K.java)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/23968/23968_H.py)
+1) [23968 알고리즘 수업 - 버블 정렬 1](https://www.acmicpc.net/problem/23968)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/23968/23968_K.java)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/23968/23968_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/23968/23968_P.cpp)
 2) [1935 후위 표기식2](https://www.acmicpc.net/problem/1935)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1935/1935_K.java)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1935/1935_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1935/1935_H.py)
 3) [18809 Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/18809/18809_K.java)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/18809/18809_P.cpp)
 4) [1517 버블 소트](https://www.acmicpc.net/problem/1517)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1517/1517_L.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1517/1517_P.cpp)
