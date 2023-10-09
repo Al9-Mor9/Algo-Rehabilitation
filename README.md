@@ -158,10 +158,5 @@
 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G3) [14725 개미굴](https://www.acmicpc.net/problem/14725)   
 <img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**
 
-### [ 시험 ] (출제자 <img src = "https://github.com/wocjs.png" width="25" height="25"> **HWANG JAECHUN**) 
+### [ 시험 ] (출제자 <img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**) 
 
-> 출제 기준 : 
-1) [17484 진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17484/17484_P.cpp)
-2) [2631 줄세우기](https://www.acmicpc.net/problem/2631)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2631/2631_P.cpp)
-3) [2169 로봇 조종하기](https://www.acmicpc.net/problem/2169)
-4) [9527 1의 개수 세기](https://www.acmicpc.net/problem/9527)
