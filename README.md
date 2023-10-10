@@ -156,7 +156,7 @@
 ## 📅 10월 2주
 ### [ 과제 ] 
 <img src = "https://github.com/Frog-Slayer.png" width="25" height="25"> **PARK YEONGSEO** (G3) [14725 개미굴](https://www.acmicpc.net/problem/14725)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14725/14725_L.py)
-<img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**
+<img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (G3) [12764 싸지방에 간 하림](https://www.acmicpc.net/problem/12764)
 
 ### [ 시험 ] (출제자 <img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**) 
 
