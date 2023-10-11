@@ -147,7 +147,7 @@
 > 출제 기준 : 
 1) [17484 진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17484/17484_P.cpp)
 2) [2631 줄세우기](https://www.acmicpc.net/problem/2631)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2631/2631_P.cpp)
-3) [2169 로봇 조종하기](https://www.acmicpc.net/problem/2169)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2169/2169_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2169/2169_P.cpp)
+3) [2169 로봇 조종하기](https://www.acmicpc.net/problem/2169)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2169/2169_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2169/2169_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2169/2169_L.py)
 4) [9527 1의 개수 세기](https://www.acmicpc.net/problem/9527)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/9527/9527_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/9527/9527_P.cpp)
 
 
