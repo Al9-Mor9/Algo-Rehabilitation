@@ -163,5 +163,5 @@
 > 출제 기준 :   
 1) [20922 겹치는 건 싫어](https://www.acmicpc.net/problem/20922)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/20922/20922_P.cpp)
 2) [17143 낚시왕](https://www.acmicpc.net/problem/17143)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17143/17143_P.cpp)
-3) [2493 탑](https://www.acmicpc.net/problem/2493)
+3) [2493 탑](https://www.acmicpc.net/problem/2493)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2493/2493_P.cpp)
 4) [1253 좋다](https://www.acmicpc.net/problem/1253)
