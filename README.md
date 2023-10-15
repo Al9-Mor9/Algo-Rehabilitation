@@ -160,4 +160,8 @@
 <img src = "https://github.com/sulogc.png" width="25" height="25"> **LIM SUHYEONG** (G3) [12764 싸지방에 간 하림](https://www.acmicpc.net/problem/12764)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/12764/12764_P.cpp)
 
 ### [ 시험 ] (출제자 <img src = "https://github.com/suchshin.png" width="25" height="25"> **SHIN SEOCKCHUL**) 
-
+> 출제 기준 :   
+1) [20922 겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
+2) [17143 낚시왕](https://www.acmicpc.net/problem/17143)
+3) [2493 탑](https://www.acmicpc.net/problem/2493)
+4) [1253 좋다](https://www.acmicpc.net/problem/1253)
